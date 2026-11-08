@@ -1,0 +1,19 @@
+{
+  "name": "agenticmart-cli",
+  "version": "0.1.0",
+  "description": "Search AgenticMart listings and add an MCP server entry to a client config after showing its scan status.",
+  "type": "module",
+  "bin": {
+    "agenticmart": "bin/agenticmart.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "author": "Esha Sabir",
+  "repository": "github:EshaRana17/agenticmart-cli",
+  "homepage": "https://agenticmart.org"
+}
